@@ -9,6 +9,6 @@ Tutorial on http://www.playframework.com/documentation/2.2.x/ScalaTodoList
 
 # Demo
 
-toobasictolist.herokuapp.com
+http://toobasictolist.herokuapp.com
 
 
