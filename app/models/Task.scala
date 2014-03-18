@@ -36,10 +36,5 @@ object Task {
 		}
 	}
 
-	def deleteTask(id: Long) = Action {
-  		Task.delete(id)
-  		Redirect(routes.Application.tasks)
-	}
 
-	
 }
